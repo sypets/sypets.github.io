@@ -2,8 +2,8 @@
 
 ## Session "Improve Core Contribution Workflow" Developer Days TYPO3 2018
 
-During the TYPO3 Developer Days 2018 I did a brainstorming session on the
-topic "["Improve Core Contribution Workflow"](https://t3dd18.typo3.org/schedule/#c813) (Sybille Peters)"
+During the TYPO3 Developer Days 2018 I (Sybille Peters) did a brainstorming session on the
+topic "["Improve Core Contribution Workflow"](https://t3dd18.typo3.org/schedule/#c813)
 
 ### Description of session
 
