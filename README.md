@@ -1,2 +1,10 @@
 # sypets.github.io
 Github pages for sypets
+
+# Notes and Links
+
+## TYPO3 contribution
+
+* Results from Session ["Improve Core Contribution Workflow"](https://t3dd18.typo3.org/schedule/#c813) (Sybille Peters) from TYPO3 Developers Days 2018:
+
+ ![Results](/typo3/contribution/ImproveContribution-final.pdf "Results of Brainstorming Session")
